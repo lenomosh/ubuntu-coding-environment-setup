@@ -19,5 +19,5 @@
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04
 
 ## Hacks
-- (How To Create Your Own Base Aliases)[https://laravel-news.com/bash-aliases]
-- (Completely uninstall mysql-server)[https://www.digitalocean.com/community/questions/completely-uninstall-mysql-server]
+- [How To Create Your Own Base Aliases](https://laravel-news.com/bash-aliases)
+- [Completely uninstall mysql-server](https://www.digitalocean.com/community/questions/completely-uninstall-mysql-server)
